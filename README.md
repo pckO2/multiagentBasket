@@ -23,3 +23,5 @@ Its a react applucation so open a new terminal and go to the fronted folder:
     npm install react-markdown remark-gfm
     #npm install framer-motion recharts
     npm start
+
+For information, send an email to p.camacho.j@gmail.com

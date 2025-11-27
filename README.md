@@ -17,7 +17,7 @@ With this you can start the api with:
     cd backend
     uvicorn api:app --host 0.0.0.0 --port 8000 --reload
 
-#fronted
+# fronted
 Its a react applucation so open a new terminal and go to the fronted folder:
     cd fronted
     npm install react-markdown remark-gfm

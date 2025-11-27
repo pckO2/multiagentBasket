@@ -1,0 +1,986 @@
+{
+    "players":[
+        {
+            "name": "Brancou Badio", 
+            "number": 0,
+            "preferred_position": "Shooting Guard",
+            "other_positions": ["Point Guard"],
+            "height_cm": 190,
+            "weight_kg": 85,
+            "age": 24,
+            "stats_season": {
+                "points_per_game": 10.5,
+                "rebounds_per_game": 5.6,
+                "assists_per_game": 2.5,
+                "steals_per_game":  1.2,
+                "blocks_per_game": 0.3,
+                "minutes_per_game": 28.4,
+                "field_goal_percentage": 0.45,
+                "three_point_percentage": 0.38,
+                "free_throw_percentage": 0.82,
+                "turnovers_per_game": 2.1,
+                "personal_fouls_per_game": 2.5,
+                "usage_rate": 22.5,
+                "player_efficiency_rating": 15.3,
+                "true_shooting_percentage": 0.58,
+                "offensive_rating": 111.2,
+                "defensive_rating": 100.4
+            },
+            "stats_last_5_games": [
+                {"points": 22, "rebounds": 11, "assists": 4, "steals": 2, "blocks": 1,"minutes":30, "field_goal_percentage":0.50, "three_point_percentage":0.40, "free_throw_percentage":0.85, "turnovers":2, "personal_fouls":3},
+                {"points": 15, "rebounds": 7, "assists": 3, "steals": 1, "blocks": 0,"minutes":26, "field_goal_percentage":0.42, "three_point_percentage":0.35, "free_throw_percentage":0.80, "turnovers":1, "personal_fouls":2},
+                {"points": 18, "rebounds": 9, "assists": 6, "steals": 1, "blocks": 0,"minutes":28, "field_goal_percentage":0.48, "three_point_percentage":0.39, "free_throw_percentage":0.90, "turnovers":3, "personal_fouls":2},
+                {"points": 25, "rebounds": 12, "assists": 5, "steals": 3, "blocks": 2,"minutes":32, "field_goal_percentage":0.52, "three_point_percentage":0.45, "free_throw_percentage":0.88, "turnovers":2, "personal_fouls":4},
+                {"points": 19, "rebounds": 10, "assists": 7, "steals": 2, "blocks": 1,"minutes":29, "field_goal_percentage":0.46, "three_point_percentage":0.37, "free_throw_percentage":0.83, "turnovers":2, "personal_fouls":3},
+                {"points": 16, "rebounds": 8, "assists": 3, "steals": 1, "blocks": 0,"minutes":27, "field_goal_percentage":0.44, "three_point_percentage":0.36, "free_throw_percentage":0.81, "turnovers":1, "personal_fouls":2} 
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": ["Minor ankle sprain two months ago, fully recovered."]
+            },
+            "training_data": {
+                "average_training_hours_per_week": 15,
+                "focus_areas": ["shooting accuracy", "defensive positioning", "endurance"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 8,
+                "team_player": true,
+                "leadership_skills": "Emerging leader"
+            },
+            "coach_feedback": [
+                { "feedback": "Shows great improvement in shooting accuracy."},
+                { "feedback": "Needs to work on defensive positioning during fast breaks."},
+                { "feedback": "Excellent work ethic and dedication during training sessions."}
+            ],
+            "preferred_plays": [
+                "Pick and roll",
+                "Isolation plays",
+                "Fast breaks"
+            ],
+            "weaknesses": [
+                "Turnover rate under pressure",
+                "Defensive rebounds"
+            ]
+        },
+        {
+            "name": "Kameron Taylor", 
+            "number": 1,
+            "preferred_position": "Small Forward",
+            "other_positions": ["Power Forward"],
+            "height_cm": 200,
+            "weight_kg": 95,
+            "age": 28,
+            "stats_season": {
+                "points_per_game": 15.3,
+                "rebounds_per_game": 7.8,
+                "assists_per_game": 3.1,
+                "steals_per_game":  1.5,
+                "blocks_per_game": 0.7,
+                "minutes_per_game": 32.1,
+                "field_goal_percentage": 0.47,
+                "three_point_percentage": 0.39,
+                "free_throw_percentage": 0.90,
+                "turnovers_per_game": 2.4,
+                "personal_fouls_per_game": 3.0,
+                "usage_rate": 24.0,
+                "player_efficiency_rating": 18.7,
+                "true_shooting_percentage": 0.60,
+                "offensive_rating": 115.5,
+                "defensive_rating": 102.3
+            },
+            "stats_last_5_games": [
+                {"points": 20, "rebounds": 10, "assists": 4, "steals": 2, "blocks": 1,"minutes":34, "field_goal_percentage":0.49, "three_point_percentage":0.41, "free_throw_percentage":0.92, "turnovers":3, "personal_fouls":4},
+                {"points": 14, "rebounds": 8, "assists": 3, "steals": 1, "blocks": 0,"minutes":30, "field_goal_percentage":0.45, "three_point_percentage":0.38, "free_throw_percentage":0.88, "turnovers":2, "personal_fouls":3},
+                {"points": 18, "rebounds": 9, "assists": 5, "steals": 2, "blocks": 2,"minutes":33, "field_goal_percentage":0.48, "three_point_percentage":0.40, "free_throw_percentage":0.91, "turnovers":2, "personal_fouls":3},
+                {"points": 16, "rebounds": 7, "assists": 4, "steals": 1, "blocks": 1,"minutes":31, "field_goal_percentage":0.46, "three_point_percentage":0.39, "free_throw_percentage":0.89, "turnovers":3, "personal_fouls":2},
+                {"points": 12, "rebounds": 6, "assists": 2, "steals": 1, "blocks": 0,"minutes":29, "field_goal_percentage":0.44, "three_point_percentage":0.37, "free_throw_percentage":0.87, "turnovers":2, "personal_fouls":3} 
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": ["Past treatment for knee tendinitis, limited practice participation."]
+            },
+            "training_data": {
+                "average_training_hours_per_week": 12,
+                "focus_areas": ["strength training", "agility drills", "shooting under fatigue"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 9,
+                "team_player": true,
+                "leadership_skills": "Strong leader"
+            },
+            "coach_feedback": [
+                { "feedback": "Needs to manage knee condition better to maintain performance."},
+                { "feedback": "Great leadership on and off the court."},
+                { "feedback": "Should focus on improving agility and quickness."}
+            ],
+            "preferred_plays": [
+                "Post-up plays",
+                "Cutting to the basket",
+                "Defensive switches"
+            ],
+            "weaknesses": [
+                "Endurance during late-game situations"
+            ]
+        },
+        {
+            "name": "Josep Puerto",
+            "number": 3,
+            "preferred_position": "Small Forward",
+            "other_positions": ["Shooting Guard"],
+            "height_cm": 198,
+            "weight_kg": 90,
+            "age": 22,
+            "stats_season": {
+                "points_per_game": 8.7,
+                "rebounds_per_game": 4.3,
+                "assists_per_game": 1.9,
+                "steals_per_game":  1.9,
+                "blocks_per_game": 0.2,
+                "minutes_per_game": 18.5,
+                "field_goal_percentage": 0.43,
+                "three_point_percentage": 0.36,
+                "free_throw_percentage": 0.78,
+                "turnovers_per_game": 1.5,
+                "personal_fouls_per_game": 2.0,
+                "usage_rate": 18.0,
+                "player_efficiency_rating": 12.4,
+                "true_shooting_percentage": 0.54,
+                "offensive_rating": 100.7,
+                "defensive_rating": 110.6
+            },
+            "stats_last_5_games": [
+                {"points": 15, "rebounds": 6, "assists": 3, "steals": 1, "blocks": 0,"minutes":20, "field_goal_percentage":0.46, "three_point_percentage":0.39, "free_throw_percentage":0.80, "turnovers":2, "personal_fouls":2},
+                {"points": 10, "rebounds": 5, "assists": 2, "steals": 1, "blocks": 1,"minutes":18, "field_goal_percentage":0.42, "three_point_percentage":0.35, "free_throw_percentage":0.75, "turnovers":1, "personal_fouls":3},
+                {"points": 13, "rebounds": 7, "assists": 2, "steals": 2, "blocks": 0,"minutes":19, "field_goal_percentage":0.44, "three_point_percentage":0.37, "free_throw_percentage":0.79, "turnovers":2, "personal_fouls":2},
+                {"points": 12, "rebounds": 4, "assists": 1, "steals": 0, "blocks": 0,"minutes":19, "field_goal_percentage":0.41, "three_point_percentage":0.34, "free_throw_percentage":0.77, "turnovers":1, "personal_fouls":2},
+                {"points": 9, "rebounds": 3, "assists": 2, "steals": 1, "blocks": 0,"minutes":17, "field_goal_percentage":0.40, "three_point_percentage":0.33, "free_throw_percentage":0.76, "turnovers":1, "personal_fouls":1},
+                {"points": 7, "rebounds": 4, "assists": 1, "steals": 0, "blocks": 0,"minutes":16, "field_goal_percentage":0.38, "three_point_percentage":0.30, "free_throw_percentage":0.74, "turnovers":2, "personal_fouls":2} 
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 14,
+                "focus_areas": ["shooting form", "defensive skills", "court awareness"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 5,
+                "team_player": true,
+                "leadership_skills": "Developing"
+            },
+            "coach_feedback": [
+                { "feedback": "Shows potential but needs to improve consistency."},
+                { "feedback": "Focus on defensive skills to become a more well-rounded player."},
+                { "feedback": "Work on court awareness to make better decisions during plays."} 
+            ],
+            "preferred_plays": [
+                "Spot-up shooting",
+                "Cutting to the basket",
+                "Transition offense"
+            ],
+            "weaknesses": [
+                "Inconsistent shooting",
+                "Defensive positioning"
+            ]
+        },
+        {
+            "name": "Nate Reuvers",
+            "number": 3,
+            "preferred_position": "Power Forward",
+            "other_positions": ["Center"], 
+            "height_cm": 208,
+            "weight_kg": 100,
+            "age": 25,
+            "stats_season": {
+                "points_per_game": 12.1,
+                "rebounds_per_game": 8.4,
+                "assists_per_game": 2.0,
+                "steals_per_game":  0.8,
+                "blocks_per_game": 1.1,
+                "minutes_per_game": 30.2,
+                "field_goal_percentage": 0.48,
+                "three_point_percentage": 0.34,
+                "free_throw_percentage": 0.85,
+                "turnovers_per_game": 1.8,
+                "personal_fouls_per_game": 2.7,
+                "usage_rate": 20.5,
+                "player_efficiency_rating": 16.8,
+                "true_shooting_percentage": 0.57,
+                "offensive_rating": 112.4,
+                "defensive_rating": 99.8
+            },
+            "stats_last_5_games": [
+                {"points": 18, "rebounds": 10, "assists": 3, "steals": 1, "blocks": 2,"minutes":34, "field_goal_percentage":0.51, "three_point_percentage":0.36, "free_throw_percentage":0.88, "turnovers":2, "personal_fouls":3},
+                {"points": 14, "rebounds": 8, "assists": 2, "steals": 0, "blocks": 1,"minutes":30, "field_goal_percentage":0.47, "three_point_percentage":0.33, "free_throw_percentage":0.84, "turnovers":1, "personal_fouls":2},
+                {"points": 16, "rebounds": 9, "assists": 1, "steals": 1, "blocks": 2,"minutes":33, "field_goal_percentage":0.49, "three_point_percentage":0.35, "free_throw_percentage":0.86, "turnovers":2, "personal_fouls":3},
+                {"points": 11, "rebounds": 7, "assists": 2, "steals": 0, "blocks": 1,"minutes":29, "field_goal_percentage":0.45, "three_point_percentage":0.32, "free_throw_percentage":0.83, "turnovers":1, "personal_fouls":2},
+                {"points": 9, "rebounds": 6, "assists": 1, "steals": 0, "blocks": 0,"minutes":28, "field_goal_percentage":0.43, "three_point_percentage":0.30, "free_throw_percentage":0.81, "turnovers":1, "personal_fouls":2} 
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 13,
+                "focus_areas": ["post moves", "rebounding techniques", "shot blocking"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 5,
+                "team_player": true,
+                "leadership_skills": "Solid contributor"
+            },
+            "coach_feedback": [
+                { "feedback": "Strong presence in the paint, needs to work on mid-range shooting."} ,
+                { "feedback": "Excellent rebounder and shot blocker."},
+                { "feedback": "Should focus on improving stamina for late-game situations."}
+            ],
+            "preferred_plays": [
+                "Post-up plays",
+                "Pick and roll",
+                "Defensive rotations"
+            ],
+            "weaknesses": [
+                "Mid-range shooting consistency",
+                "Stamina in late-game situations"
+            ]
+        },
+        {
+            "name": "Jaime Pradilla",
+            "number": 4,
+            "preferred_position": "Power Forward",
+            "other_positions": [],
+            "height_cm": 205,
+            "weight_kg": 98,
+            "age": 23,
+            "stats_season": {
+                "points_per_game": 11.4,
+                "rebounds_per_game": 6.9,
+                "assists_per_game": 2.3,
+                "steals_per_game":  1.5,
+                "blocks_per_game": 0.9,
+                "minutes_per_game": 29.5,
+                "field_goal_percentage": 0.46,
+                "three_point_percentage": 0.35,
+                "free_throw_percentage": 0.84,
+                "turnovers_per_game": 1.7,
+                "personal_fouls_per_game": 2.6,
+                "usage_rate": 21.0,
+                "player_efficiency_rating": 15.9,
+                "true_shooting_percentage": 0.56,
+                "offensive_rating": 110.8,
+                "defensive_rating": 114.5
+            },
+            "stats_last_5_games": [
+                {"points": 14, "rebounds": 6, "assists": 2, "steals": 1, "blocks": 0,"minutes":30, "field_goal_percentage":0.44, "three_point_percentage":0.34, "free_throw_percentage":0.82, "turnovers":1, "personal_fouls":2},
+                {"points": 13, "rebounds": 7, "assists": 2, "steals": 0, "blocks": 1,"minutes":28, "field_goal_percentage":0.45, "three_point_percentage":0.35, "free_throw_percentage":0.83, "turnovers":2, "personal_fouls":2},
+                {"points": 15, "rebounds": 9, "assists": 4, "steals": 1, "blocks": 2,"minutes":31, "field_goal_percentage":0.47, "three_point_percentage":0.36, "free_throw_percentage":0.85, "turnovers":3, "personal_fouls":4},
+                {"points": 10, "rebounds": 6, "assists": 2, "steals": 1, "blocks": 0,"minutes":27, "field_goal_percentage":0.42, "three_point_percentage":0.33, "free_throw_percentage":0.80, "turnovers":1, "personal_fouls":2},
+                {"points": 8, "rebounds": 5, "assists": 1, "steals": 0, "blocks": 0,"minutes":26, "field_goal_percentage":0.40, "three_point_percentage":0.30, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":2} 
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 14,
+                "focus_areas": ["post moves", "defensive skills", "shooting under pressure"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 5,
+                "team_player": true,
+                "leadership_skills": "Developing leader"
+            },
+            "coach_feedback": [
+                { "feedback": "Solid all-around player, needs to improve shooting under pressure."},
+                { "feedback": "Great defensive skills and positioning."},
+                { "feedback": "Should work on enhancing post moves for better scoring opportunities."}
+            ],
+            "preferred_plays": [
+                "Post-up plays",
+                "Pick and roll",
+                "Defensive switches"
+            ],
+            "weaknesses": [
+                "Shooting under pressure",
+                "Post move variety"
+            ]
+        },
+        {
+            "name":"Sergio De Larrea",
+            "number": 5,
+            "preferred_position": "Point Guard",
+            "other_positions": ["Shooting Guard"],
+            "height_cm": 195,
+            "weight_kg": 88,
+            "age": 19,
+            "stats_season": {
+                "points_per_game": 7.9,
+                "rebounds_per_game": 3.5,
+                "assists_per_game": 4.2,
+                "steals_per_game":  1.3,
+                "blocks_per_game": 0.1,
+                "minutes_per_game": 12.7,
+                "field_goal_percentage": 0.41,
+                "three_point_percentage": 0.33,
+                "free_throw_percentage": 0.80,
+                "turnovers_per_game": 1.9,
+                "personal_fouls_per_game": 2.1,
+                "usage_rate": 16.5,
+                "player_efficiency_rating": 11.2,
+                "true_shooting_percentage": 0.52,
+                "offensive_rating": 105.3,
+                "defensive_rating": 108.9
+            },
+            "stats_last_5_games": [
+                {"points": 12, "rebounds": 4, "assists": 6, "steals": 2, "blocks": 0,"minutes":15, "field_goal_percentage":0.43, "three_point_percentage":0.35, "free_throw_percentage":0.82, "turnovers":2, "personal_fouls":2},
+                {"points": 10, "rebounds": 2, "assists": 5, "steals": 1, "blocks": 0,"minutes":13, "field_goal_percentage":0.40, "three_point_percentage":0.32, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":3},
+                {"points": 11, "rebounds": 3, "assists": 4, "steals": 1, "blocks": 0,"minutes":14, "field_goal_percentage":0.42, "three_point_percentage":0.34, "free_throw_percentage":0.80, "turnovers":2, "personal_fouls":2},
+                {"points": 9, "rebounds": 5, "assists": 3, "steals": 1, "blocks": 0,"minutes":12, "field_goal_percentage":0.39, "three_point_percentage":0.30, "free_throw_percentage":0.76, "turnovers":1, "personal_fouls":2},
+                {"points": 7, "rebounds": 3, "assists": 4, "steals": 1, "blocks": 0,"minutes":11, "field_goal_percentage":0.38, "three_point_percentage":0.28, "free_throw_percentage":0.75, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 16,
+                "focus_areas": ["ball handling", "court vision", "shooting accuracy"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 3,
+                "team_player": true,
+                "leadership_skills": "Promising"
+            },
+            "coach_feedback": [
+                { "feedback": "Good court vision, needs to improve shooting accuracy."},
+                { "feedback": "Excellent ball handling skills under pressure."},
+                { "feedback": "Should focus on increasing confidence during games."}
+            ],
+            "preferred_plays": [
+                "Pick and roll",
+                "Fast breaks",
+                "Isolation plays"
+            ],
+            "weaknesses": [
+                "Shooting consistency",
+                "Confidence in high-pressure situations"
+            ]
+        },
+        {
+            "name": "Xavier Lopez-Arostegui",
+            "number": 7,
+            "preferred_position": "Small Forward",
+            "other_positions": ["Shooting Guard"],
+            "height_cm": 203,
+            "weight_kg": 92,
+            "age": 27,
+            "stats_season": {
+                "points_per_game": 4.2,
+                "rebounds_per_game": 5.7,
+                "assists_per_game": 1.5,
+                "steals_per_game":  1.7,
+                "blocks_per_game": 0.4,
+                "minutes_per_game": 10.3,
+                "field_goal_percentage": 0.39,
+                "three_point_percentage": 0.31,
+                "free_throw_percentage": 0.75,
+                "turnovers_per_game": 1.2,
+                "personal_fouls_per_game": 2.3,
+                "usage_rate": 12.0,
+                "player_efficiency_rating": 9.5,
+                "true_shooting_percentage": 0.50,
+                "offensive_rating": 102.1,
+                "defensive_rating": 110.2
+            },
+            "stats_last_5_games": [
+                {"points": 9, "rebounds": 10, "assists": 3, "steals": 1, "blocks": 1,"minutes":13, "field_goal_percentage":0.41, "three_point_percentage":0.33, "free_throw_percentage":0.77, "turnovers":2, "personal_fouls":3},
+                {"points": 8, "rebounds": 9, "assists": 2, "steals": 1, "blocks": 1,"minutes":12, "field_goal_percentage":0.40, "three_point_percentage":0.32, "free_throw_percentage":0.76, "turnovers":1, "personal_fouls":2},
+                {"points": 5, "rebounds": 6, "assists": 1, "steals": 0, "blocks": 0,"minutes":11, "field_goal_percentage":0.38, "three_point_percentage":0.30, "free_throw_percentage":0.74, "turnovers":1, "personal_fouls":2},
+                {"points": 6, "rebounds": 7, "assists": 2, "steals": 1, "blocks": 1,"minutes":10, "field_goal_percentage":0.37, "three_point_percentage":0.29, "free_throw_percentage":0.73, "turnovers":1, "personal_fouls":2},
+                {"points": 4, "rebounds": 5, "assists": 1, "steals": 0, "blocks": 0,"minutes":9, "field_goal_percentage":0.35, "three_point_percentage":0.28, "free_throw_percentage":0.70, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 10,
+                "focus_areas": ["defensive skills", "rebounding", "three-point shooting"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 3,
+                "team_player": true,
+                "leadership_skills": "Supportive team member"
+            },
+            "coach_feedback": [
+                { "feedback": "Strong defensive skills, needs to work on offensive contributions."},
+                { "feedback": "Good rebounder for his position."},
+                { "feedback": "Should focus on improving three-point shooting accuracy."}
+            ],
+            "preferred_plays": [
+                "Defensive rotations",
+                "Spot-up shooting",
+                "Cutting to the basket"
+            ],
+            "weaknesses": [
+                "Offensive consistency",
+                "Three-point shooting accuracy"
+            ]
+        },
+        {
+            "name": "Braxton Key",
+            "number": 7,
+            "preferred_position": "Power Forward",
+            "other_positions": ["Small Forward"],
+            "height_cm": 206,
+            "weight_kg": 99,
+            "age": 26,
+            "stats_season": {
+                "points_per_game": 5.6,
+                "rebounds_per_game": 4.8,
+                "assists_per_game": 1.2,
+                "steals_per_game":  2.6,
+                "blocks_per_game": 1.3,
+                "minutes_per_game": 15.4,
+                "field_goal_percentage": 0.44,
+                "three_point_percentage": 0.30,
+                "free_throw_percentage": 0.80,
+                "turnovers_per_game": 1.0,
+                "personal_fouls_per_game": 2.2,
+                "usage_rate": 11.0,
+                "player_efficiency_rating": 10.8,
+                "true_shooting_percentage": 0.52,
+                "offensive_rating": 94.7,
+                "defensive_rating": 117.9
+            },
+            "stats_last_5_games": [
+                {"points": 7, "rebounds": 6, "assists": 1, "steals": 1, "blocks": 1,"minutes":17, "field_goal_percentage":0.45, "three_point_percentage":0.35, "free_throw_percentage":0.80, "turnovers":1, "personal_fouls":2},
+                {"points": 6, "rebounds": 5, "assists": 1, "steals": 1, "blocks": 1,"minutes":15, "field_goal_percentage":0.42, "three_point_percentage":0.30, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":2},
+                {"points": 8, "rebounds": 6, "assists": 2, "steals": 2, "blocks": 1,"minutes":16, "field_goal_percentage":0.44, "three_point_percentage":0.32, "free_throw_percentage":0.79, "turnovers":2, "personal_fouls":3},
+                {"points": 4, "rebounds": 4, "assists": 1, "steals": 1, "blocks": 0,"minutes":14, "field_goal_percentage":0.40, "three_point_percentage":0.28, "free_throw_percentage":0.75, "turnovers":1, "personal_fouls":2},
+                {"points": 3, "rebounds": 3, "assists": 1, "steals": 0, "blocks": 0,"minutes":13, "field_goal_percentage":0.38, "three_point_percentage":0.25, "free_throw_percentage":0.70, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 11,
+                "focus_areas": ["defensive positioning", "shot blocking", "rebounding"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 5,
+                "team_player": true,
+                "leadership_skills": "Reliable team member"
+            },
+            "coach_feedback": [
+                { "feedback": "Excellent shot blocker and defender."},
+                { "feedback": "Needs to improve offensive contributions."},
+                { "feedback": "Should focus on enhancing rebounding techniques."}
+            ],
+            "preferred_plays": [
+                "Defensive rotations",
+                "Pick and roll",
+                "Post-up plays"
+            ],
+            "weaknesses": [
+                "Offensive scoring",
+                "Rebounding consistency"
+            ]
+        },
+        {
+            "name":"Jean Montero",
+            "number": 8,
+            "preferred_position": "Point Guard",
+            "other_positions": ["Shooting Guard"],
+            "height_cm": 193,
+            "weight_kg": 86,
+            "age": 20,
+            "stats_season": {
+                "points_per_game": 12.3,
+                "rebounds_per_game": 2.9,
+                "assists_per_game": 5.1,
+                "steals_per_game":  1.4,
+                "blocks_per_game": 0.2,
+                "minutes_per_game": 20.8,
+                "field_goal_percentage": 0.42,
+                "three_point_percentage": 0.38,
+                "free_throw_percentage": 0.89,
+                "turnovers_per_game": 2.3,
+                "personal_fouls_per_game": 2.4,
+                "usage_rate": 17.5,
+                "player_efficiency_rating": 13.5,
+                "true_shooting_percentage": 0.53,
+                "offensive_rating": 117.6,
+                "defensive_rating": 106.4
+            },
+            "stats_last_5_games": [
+                {"points": 16, "rebounds": 3, "assists": 7, "steals": 2, "blocks": 0,"minutes":22, "field_goal_percentage":0.45, "three_point_percentage":0.36, "free_throw_percentage":0.81, "turnovers":3, "personal_fouls":2}, 
+                {"points": 11, "rebounds": 2, "assists": 5, "steals": 1, "blocks": 0,"minutes":20, "field_goal_percentage":0.40, "three_point_percentage":0.32, "free_throw_percentage":0.78, "turnovers":2, "personal_fouls":3},
+                {"points": 13, "rebounds": 4, "assists": 6, "steals": 2, "blocks": 1,"minutes":21, "field_goal_percentage":0.43, "three_point_percentage":0.34, "free_throw_percentage":0.80, "turnovers":2, "personal_fouls":2},
+                {"points": 10, "rebounds": 2, "assists": 4, "steals": 1, "blocks": 0,"minutes":19, "field_goal_percentage":0.39, "three_point_percentage":0.30, "free_throw_percentage":0.77, "turnovers":1, "personal_fouls":2},
+                {"points": 8, "rebounds": 2, "assists": 3, "steals": 1, "blocks": 0,"minutes":18, "field_goal_percentage":0.38, "three_point_percentage":0.28, "free_throw_percentage":0.76, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 15,
+                "focus_areas": ["ball handling", "court vision", "shooting accuracy"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 3,
+                "team_player": true,
+                "leadership_skills": "Promising"
+            },
+            "coach_feedback": [
+                { "feedback": "Good court vision, needs to improve shooting accuracy."},
+                { "feedback": "Excellent ball handling skills under pressure."},    
+                { "feedback": "Should focus on increasing confidence during games."}
+            ],
+            "preferred_plays": [
+                "Pick and roll",
+                "Fast breaks",
+                "Isolation plays"
+            ],
+            "weaknesses": [
+                "Shooting consistency",
+                "Confidence in high-pressure situations"
+            ] 
+        },
+        {
+            "name": "Omari Moore",
+            "number": 10,
+            "preferred_position": "Shooting Guard",
+            "other_positions": ["Point Guard"],
+            "height_cm": 191,
+            "weight_kg": 83,
+            "age": 21,
+            "stats_season": {
+                "points_per_game": 12.8,
+                "rebounds_per_game": 3.9,
+                "assists_per_game": 4.5,
+                "steals_per_game":  1.1,
+                "blocks_per_game": 0.5,
+                "minutes_per_game": 25.6, 
+                "field_goal_percentage": 0.44,
+                "three_point_percentage": 0.34,
+                "free_throw_percentage": 0.80,
+                "turnovers_per_game": 2.0,
+                "personal_fouls_per_game": 2.2,
+                "usage_rate": 18.2,
+                "player_efficiency_rating": 14.7,
+                "true_shooting_percentage": 0.55,
+                "offensive_rating": 109.2,
+                "defensive_rating": 105.7
+            },
+            "stats_last_5_games": [
+                {"points": 15, "rebounds": 4, "assists": 5, "steals": 1, "blocks": 0,"minutes":24, "field_goal_percentage":0.44, "three_point_percentage":0.34, "free_throw_percentage":0.80, "turnovers":2, "personal_fouls":2},
+                {"points": 17, "rebounds": 3, "assists": 4, "steals": 1, "blocks": 1,"minutes":26, "field_goal_percentage":0.46, "three_point_percentage":0.36, "free_throw_percentage":0.81, "turnovers":3, "personal_fouls":2},
+                {"points": 13, "rebounds": 4, "assists": 3, "steals": 1, "blocks": 0,"minutes":23, "field_goal_percentage":0.42, "three_point_percentage":0.32, "free_throw_percentage":0.79, "turnovers":1, "personal_fouls":2},
+                {"points": 11, "rebounds": 3, "assists": 2, "steals": 0, "blocks": 0,"minutes":22, "field_goal_percentage":0.40, "three_point_percentage":0.30, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":1},
+                {"points": 11, "rebounds": 3, "assists": 2, "steals": 0, "blocks": 0,"minutes":22, "field_goal_percentage":0.40, "three_point_percentage":0.30, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 14,
+                "focus_areas": ["shooting accuracy", "defensive skills", "playmaking"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 4,
+                "team_player": true,
+                "leadership_skills": "Emerging leader"
+            },
+            "coach_feedback": [
+                { "feedback": "Strong offensive player, needs to improve defensive skills."},
+                { "feedback": "Good playmaking abilities for his position."},
+                { "feedback": "Should focus on enhancing shooting accuracy under pressure."}
+            ],
+            "preferred_plays": [
+                "Pick and roll",
+                "Isolation plays",
+                "Fast breaks"
+            ],
+            "weaknesses": [
+                "Defensive consistency",
+                "Shooting under pressure"
+            ]
+        },
+        {
+            "name": "Neal Sako",
+            "number": 12,
+            "preferred_position": "Center",
+            "other_positions": ["Power Forward"],
+            "height_cm": 213,
+            "weight_kg": 110,
+            "age": 29,
+            "stats_season": {
+                "points_per_game": 2.6,
+                "rebounds_per_game": 9.1,
+                "assists_per_game": 0.8,
+                "steals_per_game":  0.5,
+                "blocks_per_game": 1.8,
+                "minutes_per_game": 11.2,
+                "field_goal_percentage": 0.46,
+                "three_point_percentage": 0.00,
+                "free_throw_percentage": 0.38,
+                "turnovers_per_game": 2.1,
+                "personal_fouls_per_game": 3.5,
+                "usage_rate": 10.3,
+                "player_efficiency_rating": 12.3,
+                "true_shooting_percentage": 0.49,
+                "defensive_rating": 118.7,
+                "offensive_rating": 84.5
+            },
+            "stats_last_5_games": [
+                {"points": 5, "rebounds": 9, "assists": 1, "steals": 1, "blocks": 2,"minutes":13, "field_goal_percentage":0.46, "three_point_percentage":0.00, "free_throw_percentage":0.80, "turnovers":1, "personal_fouls":3},
+                {"points": 4, "rebounds": 8, "assists": 0, "steals": 0, "blocks": 1,"minutes":12, "field_goal_percentage":0.44, "three_point_percentage":0.00, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":2},
+                {"points": 3, "rebounds": 7, "assists": 0, "steals": 0, "blocks": 1,"minutes":11, "field_goal_percentage":0.42, "three_point_percentage":0.00, "free_throw_percentage":0.75, "turnovers":1, "personal_fouls":2},
+                {"points": 2, "rebounds": 6, "assists": 0, "steals": 0, "blocks": 1,"minutes":10, "field_goal_percentage":0.40, "three_point_percentage":0.00, "free_throw_percentage":0.70, "turnovers":1, "personal_fouls":2},
+                {"points": 1, "rebounds": 5, "assists": 0, "steals": 0, "blocks": 0,"minutes":9, "field_goal_percentage":0.38, "three_point_percentage":0.00, "free_throw_percentage":0.68, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 10,
+                "focus_areas": ["rebounding", "shot blocking", "post defense"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 4,
+                "team_player": true,
+                "leadership_skills": "Veteran presence"
+            },
+            "coach_feedback": [
+                { "feedback": "Strong shot blocker and rebounder."},
+                { "feedback": "Needs to improve offensive contributions."},
+                { "feedback": "Should focus on enhancing post defense techniques."}
+            ],
+            "preferred_plays": [
+                "Defensive rotations",
+                "Pick and roll",
+                "Post-up plays"
+            ],
+            "weaknesses": [
+                "Offensive scoring",
+                "Agility on defense"
+            ]
+        },
+        {
+            "name":"Darius Thompson",
+            "number": 13,
+            "preferred_position": "Point Guard",
+            "other_positions": ["Shooting Guard"],
+            "height_cm": 198,
+            "weight_kg": 90,
+            "age": 27,
+            "stats_season": {
+                "points_per_game": 14.7,
+                "rebounds_per_game": 3.2,
+                "assists_per_game": 6.4,
+                "steals_per_game":  1.6,
+                "blocks_per_game": 0.3,
+                "minutes_per_game": 24.5,
+                "field_goal_percentage": 0.44,
+                "three_point_percentage": 0.36,
+                "free_throw_percentage": 0.83,
+                "turnovers_per_game": 2.5,
+                "personal_fouls_per_game": 2.2,
+                "usage_rate": 22.5,
+                "player_efficiency_rating": 16.8,
+                "true_shooting_percentage": 0.57,
+                "offensive_rating": 112.4,
+                "defensive_rating": 104.3
+            },
+            "stats_last_5_games": [
+                {"points": 21, "rebounds": 4, "assists": 8, "steals": 2, "blocks": 0,"minutes":26, "field_goal_percentage":0.49, "three_point_percentage":0.39, "free_throw_percentage":0.84, "turnovers":3, "personal_fouls":2}, 
+                {"points": 15, "rebounds": 3, "assists": 5, "steals": 1, "blocks": 0,"minutes":24, "field_goal_percentage":0.42, "three_point_percentage":0.33, "free_throw_percentage":0.80, "turnovers":2, "personal_fouls":3},
+                {"points": 17, "rebounds": 2, "assists": 7, "steals": 2, "blocks": 1,"minutes":25, "field_goal_percentage":0.45, "three_point_percentage":0.36, "free_throw_percentage":0.82, "turnovers":2, "personal_fouls":2},
+                {"points": 13, "rebounds": 3, "assists": 6, "steals": 1, "blocks": 0,"minutes":23, "field_goal_percentage":0.40, "three_point_percentage":0.30, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":2},
+                {"points": 10, "rebounds": 2, "assists": 4, "steals": 1, "blocks": 0,"minutes":22, "field_goal_percentage":0.38, "three_point_percentage":0.28, "free_throw_percentage":0.76, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 15,
+                "focus_areas": ["playmaking", "shooting accuracy", "defensive skills"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 4,
+                "team_player": true,
+                "leadership_skills": "Strong"
+            },
+            "coach_feedback": [
+                { "feedback": "Excellent playmaker and floor general."},
+                { "feedback": "Needs to improve shooting accuracy."},
+                { "feedback": "Should focus on enhancing defensive skills."}
+            ],
+            "preferred_plays": [
+                "Pick and roll",
+                "Fast breaks",
+                "Isolation plays"
+            ],
+            "weaknesses": [
+                "Shooting consistency",
+                "Defensive positioning"
+            ]
+        },
+        {
+            "name": "Ethan Happ",
+            "number": 22,
+            "preferred_position": "Center",
+            "other_positions": [],
+            "height_cm": 211,
+            "weight_kg": 108,
+            "age": 28,
+            "stats_season": {
+                "points_per_game": 0,
+                "rebounds_per_game": 0,
+                "assists_per_game": 0,
+                "steals_per_game":  0,
+                "blocks_per_game": 0,
+                "minutes_per_game": 0,
+                "field_goal_percentage": 0,
+                "three_point_percentage": 0,
+                "free_throw_percentage": 0,
+                "turnovers_per_game": 0,
+                "personal_fouls_per_game": 0,
+                "usage_rate": 0,
+                "player_efficiency_rating": 0,
+                "true_shooting_percentage": 0,
+                "offensive_rating": 0,
+                "defensive_rating": 0
+            },
+            "stats_last_5_games": [],
+            "medical_status": {
+                "available": false,
+                "injuries": ["Out for the season"],
+                "recent_medical_issues": ["Recovering from knee surgery, expected return next season."]
+            },
+            "training_data": {
+                "average_training_hours_per_week": 0,
+                "focus_areas": []
+            },
+            "psychological_profile": {
+                "mental_toughness": 4,
+                "team_player": true,
+                "leadership_skills": "Veteran presence"
+            },
+            "coach_feedback": [
+                { "feedback": "Currently recovering from injury, focusing on rehabilitation."},
+                { "feedback": "Shows strong mental toughness during recovery process."},
+                { "feedback": "Expected to return next season with full strength."}
+            ],
+            "preferred_plays": [],
+            "weaknesses": []
+        },
+        {
+            "name":"Matt Costello",
+            "number": 24,
+            "preferred_position": "Center",
+            "other_positions": ["Power Forward"],
+            "height_cm": 208,
+            "weight_kg": 105,
+            "age": 30,
+            "stats_season": {
+                "points_per_game": 8.4,
+                "rebounds_per_game": 8.2,
+                "assists_per_game": 4.0,
+                "steals_per_game":  0.6,
+                "blocks_per_game": 1.5,
+                "minutes_per_game": 20.0,
+                "field_goal_percentage": 0.47,
+                "three_point_percentage": 0.35,
+                "free_throw_percentage": 0.79,
+                "turnovers_per_game": 1.4,
+                "personal_fouls_per_game": 2.0,
+                "usage_rate": 14.8,
+                "player_efficiency_rating": 15.1,
+                "true_shooting_percentage": 0.54,
+                "offensive_rating": 106.8,
+                "defensive_rating": 99.4
+            },
+            "stats_last_5_games": [
+                {"points": 14, "rebounds": 10, "assists": 5, "steals": 1, "blocks": 2,"minutes":22, "field_goal_percentage":0.48, "three_point_percentage":0.35, "free_throw_percentage":0.82, "turnovers":2, "personal_fouls":3},
+                {"points": 9, "rebounds": 8, "assists": 4, "steals": 0, "blocks": 1,"minutes":20, "field_goal_percentage":0.45, "three_point_percentage":0.40, "free_throw_percentage":0.80, "turnovers":1, "personal_fouls":2},
+                {"points": 11, "rebounds": 9, "assists": 3, "steals": 1, "blocks": 2,"minutes":21, "field_goal_percentage":0.46, "three_point_percentage":0.30, "free_throw_percentage":0.81, "turnovers":2, "personal_fouls":2},
+                {"points": 7, "rebounds": 7, "assists": 4, "steals": 0, "blocks": 1,"minutes":19, "field_goal_percentage":0.42, "three_point_percentage":0.35, "free_throw_percentage":0.78, "turnovers":1, "personal_fouls":2},
+                {"points": 6, "rebounds": 6, "assists": 2, "steals": 0, "blocks": 0,"minutes":18, "field_goal_percentage":0.40, "three_point_percentage":0.35, "free_throw_percentage":0.75, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": ["None"],
+                "recent_medical_issues": ["No recent medical issues."]
+            },
+            "training_data": {
+                "average_training_hours_per_week": 12,
+                "focus_areas": ["rebounding", "shot blocking", "post moves"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 4,
+                "team_player": true,
+                "leadership_skills": "Veteran presence"
+            },
+            "coach_feedback": [
+                { "feedback": "Strong rebounder and shot blocker."},
+                { "feedback": "Needs to improve offensive scoring options."},
+                { "feedback": "Should focus on enhancing post moves for better scoring opportunities."}
+            ],
+            "preferred_plays": [
+                "Post-up plays",
+                "Pick and roll",
+                "Defensive rotations"
+            ],
+            "weaknesses": [
+                "Offensive scoring variety",
+                "Agility on defense"
+            ]
+        },
+        {
+            "name": "Isaac Nogues",
+            "number": 32,
+            "preferred_position": "Shooting Guard",
+            "other_positions": ["Small Forward"],
+            "height_cm": 197,
+            "weight_kg": 89,
+            "age": 21,
+            "stats_season": {
+                "points_per_game": 1.5,
+                "rebounds_per_game": 1.2,
+                "assists_per_game": 2.5,
+                "steals_per_game":  3.3,
+                "blocks_per_game": 0.1,
+                "minutes_per_game": 5.4,
+                "field_goal_percentage": 0.36,
+                "three_point_percentage": 0.18,
+                "free_throw_percentage": 0.65,
+                "turnovers_per_game": 0.2,
+                "personal_fouls_per_game": 3.1,
+                "usage_rate": 8.5,
+                "player_efficiency_rating": 7.2,
+                "true_shooting_percentage": 0.46,
+                "offensive_rating": 65.3,
+                "defensive_rating": 132.6
+            },
+            "stats_last_5_games": [
+                {"points": 3, "rebounds": 2, "assists": 1, "steals": 3, "blocks": 0,"minutes":6, "field_goal_percentage":0.35, "three_point_percentage":0.15, "free_throw_percentage":0.70, "turnovers":1, "personal_fouls":2},
+                {"points": 2, "rebounds": 1, "assists": 0, "steals": 2, "blocks": 0,"minutes":5, "field_goal_percentage":0.30, "three_point_percentage":0.20, "free_throw_percentage":0.65, "turnovers":1, "personal_fouls":1},
+                {"points": 1, "rebounds": 1, "assists": 1, "steals": 2, "blocks": 0,"minutes":5, "field_goal_percentage":0.28, "three_point_percentage":0.18, "free_throw_percentage":0.60, "turnovers":1, "personal_fouls":1},
+                {"points": 0, "rebounds": 1, "assists": 0, "steals": 2, "blocks": 0,"minutes":4, "field_goal_percentage":0.25, "three_point_percentage":0.15, "free_throw_percentage":0.55, "turnovers":1, "personal_fouls":1},
+                {"points": 0, "rebounds": 0, "assists": 0, "steals": 1, "blocks": 0,"minutes":3, "field_goal_percentage":0.20, "three_point_percentage":0.10, "free_throw_percentage":0.50, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 8,
+                "focus_areas": ["defensive skills", "stealing techniques", "court awareness"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 3,
+                "team_player": true,
+                "leadership_skills": "Supportive team member"
+            },
+            "coach_feedback": [
+                { "feedback": "Excellent defensive skills, especially in stealing the ball."},
+                { "feedback": "Needs to improve offensive contributions."},
+                { "feedback": "Should focus on enhancing court awareness during plays."}
+            ],
+            "preferred_plays": [
+                "Defensive rotations",
+                "Fast breaks",
+                "Spot-up shooting"
+            ],
+            "weaknesses": [
+                "Offensive scoring",
+                "Court awareness"
+            ]
+        },
+        {
+            "name": "Yankuba Sima",
+            "number": 77,
+            "preferred_position": "Center",
+            "other_positions": ["Power Forward"],
+            "height_cm": 215,
+            "weight_kg": 112,
+            "age": 24,
+            "stats_season": {
+                "points_per_game": 3.5,
+                "rebounds_per_game": 8.5,
+                "assists_per_game": 1.0,
+                "steals_per_game":  0.4,
+                "blocks_per_game": 1.8,
+                "minutes_per_game": 14.3,
+                "field_goal_percentage": 0.43,
+                "three_point_percentage": 0.20,
+                "free_throw_percentage": 0.72,
+                "turnovers_per_game": 1.3,
+                "personal_fouls_per_game": 2.4,
+                "usage_rate": 11.5,
+                "player_efficiency_rating": 11.0,
+                "true_shooting_percentage": 0.48,
+                "offensive_rating": 91.4,
+                "defensive_rating": 112.9
+            },
+            "stats_last_5_games": [
+                {"points": 7, "rebounds": 8, "assists": 2, "steals": 1, "blocks": 2,"minutes":16, "field_goal_percentage":0.45, "three_point_percentage":0.22, "free_throw_percentage":0.75, "turnovers":2, "personal_fouls":3},
+                {"points": 4, "rebounds": 7, "assists": 1, "steals": 0, "blocks": 1,"minutes":14, "field_goal_percentage":0.40, "three_point_percentage":0.18, "free_throw_percentage":0.70, "turnovers":1, "personal_fouls":2},
+                {"points": 5, "rebounds": 6, "assists": 1, "steals": 0, "blocks": 2,"minutes":15, "field_goal_percentage":0.42, "three_point_percentage":0.20, "free_throw_percentage":0.72, "turnovers":1, "personal_fouls":2},
+                {"points": 2, "rebounds": 5, "assists": 0, "steals": 0, "blocks": 1,"minutes":13, "field_goal_percentage":0.38, "three_point_percentage":0.15, "free_throw_percentage":0.68, "turnovers":1, "personal_fouls":2},
+                {"points": 1, "rebounds": 4, "assists": 0, "steals": 0, "blocks": 0,"minutes":12, "field_goal_percentage":0.35, "three_point_percentage":0.10, "free_throw_percentage":0.65, "turnovers":1, "personal_fouls":1}
+            ],
+            "medical_status": {
+                "available": true,
+                "injuries": [],
+                "recent_medical_issues": []
+            },
+            "training_data": {
+                "average_training_hours_per_week": 11,
+                "focus_areas": ["rebounding", "shot blocking", "post defense"]
+            },
+            "psychological_profile": {
+                "mental_toughness": 5,
+                "team_player": true,
+                "leadership_skills": "Reliable team member"
+            },
+            "coach_feedback": [
+                { "feedback": "Strong shot blocker and rebounder."},
+                { "feedback": "Needs to improve offensive contributions."},
+                { "feedback": "Should focus on enhancing post defense techniques."}
+            ],
+            "preferred_plays": [
+                "Defensive rotations",
+                "Pick and roll",
+                "Post-up plays"
+            ],
+            "weaknesses": [
+                "Offensive scoring",
+                "Agility on defense"
+            ]
+        }
+    ]
+}
+
+        

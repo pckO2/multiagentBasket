@@ -1,0 +1,11 @@
+python3 -m pip install smolagents   
+python3 -m pip install ollama       
+ollama pull llama3.1:8b     
+python3 -m pip install --upgrade smolagents    
+ollama pull gpt-oss:20b  
+ollama pull qwen2.5:14b
+
+
+uvicorn api:app --reload --port 8000
+pip install fastapi uvicorn sse-starlette
+uvicorn api:app --host 0.0.0.0 --port 8000 --reload

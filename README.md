@@ -19,6 +19,7 @@ With this you can start the api with:
 
 # fronted
 Its a react applucation so open a new terminal and go to the fronted folder:
+
     cd fronted
     npm install react-markdown remark-gfm
     #npm install framer-motion recharts

@@ -8,13 +8,13 @@ from agents.pychologicalAgent import PsychologicalAgent
 from fastapi.middleware.cors import CORSMiddleware
 
 
-# 4 agentes base
+# 4 base agents
 agent_offense = OffensiveAgent(fileLoad="./data/players.json", modelName="qwen2.5:14b", role="ofensivo")
 agent_defense = DefensiveAgent(fileLoad="./data/players.json", modelName="qwen2.5:14b", role="defensivo")
 agent_tactic  = TacticAgent(fileLoad="./data/players.json", modelName="qwen2.5:14b", role="tactico")
 agent_mental  = PsychologicalAgent(fileLoad="./data/players.json", modelName="qwen2.5:14b", role="mental")
 
-# Coordinador
+# Coordinator
 agent_coord   = CoordinatorAgent(modelName="qwen2.5:14b")
 
 agents = [agent_offense, agent_defense, agent_tactic, agent_mental]

@@ -11,7 +11,7 @@ export default function AgentsDashboard() {
   const [loadingAgents, setLoadingAgents] = useState(false);
   const [loadingCoordinator, setLoadingCoordinator] = useState(false);
 
-  // ---- FORMATEO DEL COORDINADOR ----
+  // ---- COORDINTOR FORMAT ----
   let coordinadorText = "";
 
   if (Array.isArray(coordinador)) {
@@ -53,7 +53,7 @@ export default function AgentsDashboard() {
     }
   };
 
-  // ---- CUANDO LOS 4 AGENTES TERMINAN, SE LLAMA AL COORDINADOR ----
+  // ---- WHEN 4 AGENTS END, COORDINADOR IS CALLED ----
   React.useEffect(() => {
     if (doneAgents.every(v => v)) {
       setLoadingAgents(false);

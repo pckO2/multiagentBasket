@@ -23,15 +23,6 @@ class BaseAgent:
         )
         return agent
 
-    # def load_data(self, dataKey):
-    #     with open(self.fileLoad) as f:
-    #         data = json.load(f)
-    #     self.data[dataKey]
-    
-    # def generate_prompt(self, ideaDescription):
-    #     if ideaDescription:
-    #         self.final_prompt = ideaDescription
-
     def chunk_players(self, chunk_size=5):
         """
         Generator that yields chunks of players.
